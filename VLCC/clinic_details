@@ -1,0 +1,98 @@
+[
+  {
+    "S.No": 1,
+    "Centre Name": "CHENNAI TTK ROAD",
+    "City": "Chennai",
+    "Zone": "South",
+    "Address": "Ground Floor, Property No, 24, Chamiers Rd, near Scans World, Nandanam Extension, Nandanam, Chennai, Tamil Nadu",
+    "Pincode": "600035"
+  },
+  {
+    "S.No": 2,
+    "Centre Name": "CHENNAI PH ROAD",
+    "City": "Chennai",
+    "Zone": "South",
+    "Address": "323, Poonamallee High Rd, Next to Pachaiappas College, Aminjikarai, Chennai, Tamil Nadu",
+    "Pincode": "600029"
+  },
+  {
+    "S.No": 3,
+    "Centre Name": "CHENNAI OMR",
+    "City": "Chennai",
+    "Zone": "South",
+    "Address": "1st Floor, Plot 18, Rajiv Gandhi Salai, above Dindigul Thalappakatti Restaurant, Nehru Nagar, Sri Sowdeswari Nagar, Thoraipakkam, Chennai, Tamil Nadu",
+    "Pincode": "600097"
+  },
+  {
+    "S.No": 4,
+    "Centre Name": "CHENNAI VELACHERY",
+    "City": "Chennai",
+    "Zone": "South",
+    "Address": "Consultancy Services, Tharamani, 9 & 26, Jawaharlal Nehru Salai, opposite to Tata, Ramagiri Nagar, Velachery, Chennai",
+    "Pincode": "600042"
+  },
+  {
+    "S.No": 5,
+    "Centre Name": "CHENNAI ADYAR",
+    "City": "Chennai",
+    "Zone": "South",
+    "Address": "Shop No. 17&18, 3rd Floor, Sardar Patel Rd, above GRT Jewellers Building, opp. Gandhi Nagar, Nethaji Colony, Kasturba Nagar, Adyar, Chennai, Tamil Nadu",
+    "Pincode": "600020"
+  },
+  {
+    "S.No": 6,
+    "Centre Name": "CHENNAI PORUR",
+    "City": "Chennai",
+    "Zone": "South",
+    "Address": "1st & 2nd Floor, D:65,65A Plot, 3, Mount Poonamallee Rd, MP Road, Lakshmi Nagar, Porur, Chennai, Tamil Nadu",
+    "Pincode": "600116"
+  },
+  {
+    "S.No": 7,
+    "Centre Name": "DELHI GK II",
+    "City": "NCR",
+    "Zone": "NCR",
+    "Address": "M-Block Market, M 14, GK-2, Block M, Greater Kailash II, Greater Kailash, New Delhi, Delhi",
+    "Pincode": "110048"
+  },
+  {
+    "S.No": 8,
+    "Centre Name": "DELHI PITAMPURA",
+    "City": "NCR",
+    "Zone": "NCR",
+    "Address": "2nd Floor, Address: 370, opposite Metro Pillar No-342, Kohat Enclave, Pitampura, New Delhi, Delhi",
+    "Pincode": "110034"
+  },
+  {
+    "S.No": 9,
+    "Centre Name": "NOIDA SEC-104",
+    "City": "NCR",
+    "Zone": "NCR",
+    "Address": "2nd Floor, HA 107, near Mithaas Sweets, Hazipur, Sector 104, Noida, Uttar Pradesh",
+    "Pincode": "201301"
+  },
+  {
+    "S.No": 10,
+    "Centre Name": "GURGAON SECTOR 31",
+    "City": "NCR",
+    "Zone": "NCR",
+    "Address": "42/43, Huda Market, 2nd Floor, SCO-41, Sector 31, Gurugram, Haryana",
+    "Pincode": "122001"
+  },
+  {
+    "S.No": 11,
+    "Centre Name": "Vasant Vihar",
+    "City": "NCR",
+    "Zone": "NCR",
+    "Address": "Priya Complex, 22 Community Centre, Basant Lok, Vasant Vihar, New Delhi, Delhi",
+    "Pincode": "110057"
+  },
+  {
+    "S.No": 12,
+    "Centre Name": "DLF Gurgaon",
+    "City": "NCR",
+    "Zone": "NCR",
+    "Address": "VLCC Health Care Ltd, 23, A-14 Ln, opposite Dt Mega Mall, Sector 28, DLF Phase 1, Gurugram, Haryana",
+    "Pincode": "122001"
+  }
+]
